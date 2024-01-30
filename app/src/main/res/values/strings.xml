@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Dog Breeds</string>
+    <string name="top_bar_headline">Discover Dog Breeds</string>
+    <string name="text_home">Home</string>
+    <string name="text_details">Breed Details</string>
+    <string name="see_favourites">Tap here to see your favourites</string>
+    <string name="text_favourites">Favourites</string>
+    <string name="text_favourite_images">Favourite Dog Images</string>
+    <string name="text_sub_breeds">Sub Breeds</string>
+    <string name="text_no_sub_breeds">No sub breeds</string>
+    <string name="text_add_to_favourite">Add to Favourite</string>
+    <string name="text_remove_from_favourite">Remove from Favourite</string>
+    <string name="text_has_no_favourites">You don\'t have any favourite dog breed.</string>
+    <string name="text_has_no_favourite_images">You don\'t have any favourite dog breed images.</string>
+    <string name="text_retry">Retry</string>
+    <string name="text_connection_failed">No internet, please connect and try again</string>
+</resources>
